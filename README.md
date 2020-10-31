@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 :man_technologist: I am a Software Engineer who is working as Assistant Software Engineer at Huawei.<br/>
 :iphone:  I love to work as Mobile Application Developer. I prefer to develop Native Android applications. But I love working on mobile devices. So, I am learning React Native and develop some applications using it.<br/>
-:thinking: I love to learn different technologies and improve myself in different areas<br/><br/>
+:thinking: In my free time, I love to learn something new such as SQL, NoSQL, Django, AWS and etc.<br/><br/>
 :mailbox: <b>You can find me on:</b></br>
 <a href="https://www.linkedin.com/in/berkberberr/" target="_blank"><img src="https://github.com/berkberberr/berkberberr/blob/main/resources/linkedin.png?raw=true" style="margin:5px;"/></a>
 <a href="https://berkberber.com/" target="_blank"><img src="https://github.com/berkberberr/berkberberr/blob/main/resources/web.png?raw=true" style="margin:5px;"/></a>
@@ -40,8 +40,11 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)
 ![Realm](https://img.shields.io/badge/-Realm-333333?style=flat&logo=Realm)
 <br/>
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
 ![Spring-Framework](https://img.shields.io/badge/-Spring_Framework-333333?style=flat&logo=Spring)
+<br/>
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySql)
+![NoSQL](http://img.shields.io/badge/-NoSQL-333333?style=flat&logo=mongodb)
 <br/>
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
